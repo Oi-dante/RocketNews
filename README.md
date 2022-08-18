@@ -1,7 +1,7 @@
 #
 <h1 align="center">  📰 RocketNews</h1>
 
-<img src="https://i.postimg.cc/KzKhg0bk/rocketnews.png">
+<img align="center" src="https://i.postimg.cc/KzKhg0bk/rocketnews.png" >
 
 <p align="center"> This project was created from Rocketseat's "RocketNews" challenge
 </p>
