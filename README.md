@@ -1,7 +1,7 @@
 #
 <h1 align="center">  📰 RocketNews</h1>
 
-<img src="">
+<img src="https://i.postimg.cc/KzKhg0bk/rocketnews.png">
 
 <p align="center"> This project was created from Rocketseat's "RocketNews" challenge
 </p>
@@ -44,8 +44,7 @@ Before cloning the repository into your machine you'll need <a href="https://git
 
 <p>
    <a href="https://www.linkedin.com/in/gustavo-barboza-5641601ab/">
-    <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin
-   &logoColor=white"></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:gustavobarboza2003@gmail.com.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
